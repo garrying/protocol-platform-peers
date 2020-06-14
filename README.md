@@ -1,9 +1,7 @@
-# Protocol, Platform, Peers
+# [Protocol, Platform, Peers](https://www.are.na/garry-ing/protocol-platform-peers)
 
 A workshop presented at  
 **[What do we mean when we say 'content moderation'?](https://contentmoderation.art/)**
-
-https://www.are.na/garry-ing/protocol-platform-peers
 
 > An interdisciplinary symposium on freedom of expression
 in the age of digital censorship and surveillance
